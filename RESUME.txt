@@ -1,0 +1,37 @@
+<html>
+<head>
+<h1> My Resume</font></h1>
+</head>
+<title> RESUME </title> 
+<body bgcolor="grey"><br>
+<pre><hr></hr>
+<h1>basic details</h1><hr></hr>
+<h4>
+ Name          : PRIYANK  DINESHBHAI  PAMBHAR
+ PHON NO       : 8866289516
+ E-MAIL ID     : pambharpriyank1@gmail.com
+ PHON NO       : 8866289516
+</pre>
+<hr>
+<pre>
+<h1>Education</h1>
+<hr>
+<h4>
+1.B tech IT from Atmiya University 2022-2026</li>
+2.12th-2022</li>
+3.10th-2019</li>
+</hr>
+</pre>
+<hr>
+<pre>
+<h1>Skills</h1>
+<hr>
+<h4>
+1.c++
+2.java
+3.c
+4.canva
+</hr>
+</pre>
+</body>
+</html>
